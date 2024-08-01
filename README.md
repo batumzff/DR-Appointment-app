@@ -1,4 +1,8 @@
 ## About the Project
+<div align="center">
+  <img src="./public/img/dr-appointment-app.gif" />
+</div>
+
 
 This project is a Hospital Appointment Management System designed to facilitate the process of scheduling and managing appointments for patients.
 
