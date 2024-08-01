@@ -1,6 +1,6 @@
 ## About the Project
 <div align="center">
-  <img src="./public/img/dr-appointment-app.gif" />
+  <img src="dr-appointment-app.gif" />
 </div>
 
 
